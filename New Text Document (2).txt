@@ -1,2 +1,4 @@
 hey we learning jenkins tool
 this is first class
+jenkins is easy to learn
+jenkins is indepenent
